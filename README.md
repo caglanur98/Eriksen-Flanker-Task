@@ -1,0 +1,1 @@
+Implementation of a colored Eriksen Flanker Task in MATLAB using Psychtoolbox, conducted with 16 participants as part of the Introduction to Programming course in the MCNB Master’s program at Freie Universität Berlin.
